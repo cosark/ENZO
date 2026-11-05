@@ -98,6 +98,10 @@ On a fresh self-hosted instance the **first live-validated key you paste claims 
 > [!TIP]
 > Try it hosted first: **https://enzo-hub.duckdns.org** — the same app, running on our infrastructure. This repo is exactly that code, minus Google sign-in (self-hosted login is just your provider keys) with a trimmed default theme set for a small download.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ENZO/)
+
 ## Run on Google Colab — zero install
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/theguysudo/ENZO/blob/main/notebooks/enzo-colab.ipynb)
